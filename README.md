@@ -1,3 +1,3 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
-# alx-system_engineering-devops
+# alx-system_engineering-DevOps
 This repository is a collection of comprehensive and practical resources. 
