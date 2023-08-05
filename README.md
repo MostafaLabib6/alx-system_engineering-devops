@@ -21,8 +21,7 @@ Understanding file permissions is crucial for securing your systems and data. He
 
 ## Covered Topics for each Section
 
--------------|------------------
 Section      | Topics
---------------------------------
+------------- | ------------------
 Shell Basics | ls 
 Shell Permissions |  
