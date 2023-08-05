@@ -16,4 +16,4 @@ Understanding file permissions is crucial for securing your systems and data. He
 
 ## Resources
 - **[Shell-Besics Resources](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics#resources)**
-  
+- **[Shell-Besics Permissions](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
