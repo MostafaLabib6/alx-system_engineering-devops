@@ -24,6 +24,6 @@ Understanding file permissions is crucial for securing your systems and data. He
 Section      | Topics
 ------------- | ------------------
 Shell Basics | cd, ls,pwd, less, file, ln, cp, mv,
-               rm,mkdir, type, which, help, man
+             |  rm,mkdir, type, which, help, man
 Shell Permissions | chmod,sudo,su,chown,chgrp,id,groups,
-                    whoami,adduser,useradd,addgroup
+                  | whoami,adduser,useradd,addgroup
