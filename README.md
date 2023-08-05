@@ -7,6 +7,7 @@ This repository is a collection of comprehensive and practical resources.
 
 
 ### Shell Basics
+
 In this section, you will learn the fundamental concepts of the Unix shell. basic commands, directory navigation, file manipulation, and more. will be covered in this repo. Whether you're new to the shell or looking to refresh your knowledge, this section is the perfect starting point.
 
 ### Shell Permissions
@@ -14,5 +15,5 @@ Understanding file permissions is crucial for securing your systems and data. He
 
 
 ## Resources
-- **[Shell-Besics Resources]((https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics#resources)**
+- **[Shell-Besics Resources](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics#resources)**
   
