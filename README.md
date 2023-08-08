@@ -19,8 +19,8 @@ Understanding file permissions is crucial for securing your systems and data. He
 ## Resources
 - **[Shell-Besics Resources](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics#resources)**
 - **[Shell- Permissions](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
-- **[Shell- Redirections](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
-- **[Shell-](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
+- **[Shell- Redirections](https://intranet.alxswe.com/rltoken/fGOQQXRKbvOcd1qLRxHzLQ)**
+- **[Shell-Variable-Expansions](http://linuxcommand.org/lc3_lts0080.php)**
 
 ## Covered Topics for each Section
 
