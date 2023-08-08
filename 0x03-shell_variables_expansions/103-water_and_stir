@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' $(WATER) + $(STIR)
+printf '%\n' $((WATER + STIR))
