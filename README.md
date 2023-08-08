@@ -4,6 +4,8 @@ This repository is a collection of comprehensive and practical resources.
 ## Table of Contents
 - **[Shell-Besics](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics)** 
 - **[Shell-Permissions](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x01-shell_permissions)**
+- **[Shell-Redirections](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x02-shell_redirections)**
+- **[Shell-Variables-Expansions](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)**
 
 
 ### Shell Basics
@@ -16,8 +18,9 @@ Understanding file permissions is crucial for securing your systems and data. He
 
 ## Resources
 - **[Shell-Besics Resources](https://github.com/MostafaLabib6/alx-system_engineering-devops/tree/main/0x00-shell_basics#resources)**
-- **[Shell-Besics Permissions](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
-
+- **[Shell- Permissions](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
+- **[Shell- Redirections](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
+- **[Shell-](https://www.youtube.com/watch?v=4e669hSjaX8&ab_channel=LearnLinuxTV)**
 
 ## Covered Topics for each Section
 
@@ -25,3 +28,5 @@ Section      | Topics
 ------------ | ------------------
 Shell Basics | cd, ls,pwd, less, file, ln, cp, mv,rm,mkdir, type, which, help, man
 Shell Permissions | chmod, sudo, su, chown, chgrp, id, groups, whoami, adduser, useradd, addgroup
+Shell-Redirections| echo, cat, head, tail, find, wc, sort, uniq, grep, tr, rev, cut
+Shell-Variables-Expansions|printenv, set, unset, export, alias, unalias, source, printf
